@@ -5,7 +5,8 @@
 
 ##  Assignment is included in the PDF file uploaded to this repository.
 
-**Title:** Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples  
+**Title:** Building a Resilient Digital Future: Proposing Legal Reforms for
+Cyber Law in Bangladesh Based on Leading Global Examples
 **Course:** CSE 455 - Computer Ethics and Cyber Law  
 **Department:** Computer Science and Engineering  
 **Level:** 4  
